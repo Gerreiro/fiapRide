@@ -11,6 +11,7 @@ public class SistemaPrincipal {
 
         Passageiro passageiro2 = new Passageiro();
         passageiro2.nome = "Carlos Souza";
+
         passageiro2.saldo = 12.50;
 
 
